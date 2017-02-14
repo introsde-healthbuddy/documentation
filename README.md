@@ -1,6 +1,6 @@
 # HealthBuddy - IntroSDE Final Project
 
-This project was developed as the final project for the course Introduction to Service Design and Engineering of University of Trento, trento, Italy.
+This project was developed as the final project for the course Introduction to Service Design and Engineering of University of Trento, Italy.
 
 ## Description
 
