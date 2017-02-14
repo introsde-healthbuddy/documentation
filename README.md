@@ -6,6 +6,10 @@ This project was developed as the final project for the course Introduction to S
 
 For this assignment we have developed a web application with which users can improve their lifestyle. We track different health measures to give insight into the user’s health conditions so that they become aware of their health condition. Furthermore the user can set goals and activities to motivate him-/herself to go out and exercise / socialise. Finally users can insert their nutrition intake.
 
+## Group Members
+- Sarmad Saleem
+- Remco Kortekaas
+
 ## Layers
 
 - LocalDB : [https://healthbuddy-localdb.herokuapp.com/](https://healthbuddy-localdb.herokuapp.com/)
@@ -13,6 +17,24 @@ For this assignment we have developed a web application with which users can imp
 - External Adapter : [https://healthbuddy-externaladapter.herokuapp.com/](https://healthbuddy-externaladapter.herokuapp.com/)
 - Business Logic : [https://healthbuddy-businesslogic.herokuapp.com/](https://healthbuddy-businesslogic.herokuapp.com/)
 - Process Centric : [https://healthbuddy-processcentric.herokuapp.com/](https://healthbuddy-processcentric.herokuapp.com/)
+- Client: [http://162.243.171.132/](http://162.243.171.132/) 
+
+## Repositories
+
+- LocalDB : [https://github.com/introsde-healthbuddy/LocalDB](https://github.com/introsde-healthbuddy/LocalDB)
+- Storage : [https://github.com/introsde-healthbuddy/Storage](https://github.com/introsde-healthbuddy/Storage)
+- External Adapter : [https://github.com/introsde-healthbuddy/ExternalAdapter](https://github.com/introsde-healthbuddy/ExternalAdapter)
+- Business Logic : [hhttps://github.com/introsde-healthbuddy/BusinessLogic](https://github.com/introsde-healthbuddy/BusinessLogic)
+- Process Centric : [https://github.com/introsde-healthbuddy/ProcessCentric](https://github.com/introsde-healthbuddy/ProcessCentric)
+- Client: [http://162.243.171.132/](http://162.243.171.132/) 
+
+## Wikis
+
+- LocalDB : [https://github.com/introsde-healthbuddy/LocalDB/wiki](https://github.com/introsde-healthbuddy/LocalDB/wiki)
+- Storage : [https://github.com/introsde-healthbuddy/Storage/wiki](https://github.com/introsde-healthbuddy/Storage/wiki)
+- External Adapter : [https://github.com/introsde-healthbuddy/ExternalAdapter/wiki](https://github.com/introsde-healthbuddy/ExternalAdapter/wiki)
+- Business Logic : [hhttps://github.com/introsde-healthbuddy/BusinessLogic/wiki](https://github.com/introsde-healthbuddy/BusinessLogic/wiki)
+- Process Centric : [https://github.com/introsde-healthbuddy/ProcessCentric/wiki](https://github.com/introsde-healthbuddy/ProcessCentric/wiki)
 - Client: [http://162.243.171.132/](http://162.243.171.132/) 
 
 ## Demo User Details
