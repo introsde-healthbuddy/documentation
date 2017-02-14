@@ -37,6 +37,10 @@ For this assignment we have developed a web application with which users can imp
 - Process Centric : [https://github.com/introsde-healthbuddy/ProcessCentric/wiki](https://github.com/introsde-healthbuddy/ProcessCentric/wiki)
 - Client: [http://162.243.171.132/](http://162.243.171.132/) 
 
+##External APIs
+- Forismatic API
+- Edamam Receipe API
+
 ## Demo User Details
 - Email: sarmad.saleem@live.com
 - Password: qwerty
@@ -64,3 +68,5 @@ The application consists of six services that work independently. The interactio
  * Interacts with Storage Service for POST/PUT requests and Business Logic Service for checking if the user has reached its goals when new measures are posted.  
 * **Web Application (Client):**
  * Laravel powered web application that consumes REST & SOAP based web services to realize HealthBuddy
+
+  ![Application architecture](architecture_diagram.png)
