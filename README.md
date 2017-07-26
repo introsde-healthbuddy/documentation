@@ -12,18 +12,18 @@ For this assignment we have developed a web application with which users can imp
 
 ## Layers
 
-- LocalDB : [https://healthbuddy-localdb.herokuapp.com/](https://healthbuddy-localdb.herokuapp.com/)
-- Storage : [https://healthbuddy-storage.herokuapp.com/](https://healthbuddy-storage.herokuapp.com/)
-- External Adapter : [https://healthbuddy-externaladapter.herokuapp.com/](https://healthbuddy-externaladapter.herokuapp.com/)
-- Business Logic : [https://healthbuddy-businesslogic.herokuapp.com/](https://healthbuddy-businesslogic.herokuapp.com/)
-- Process Centric : [https://healthbuddy-processcentric.herokuapp.com/](https://healthbuddy-processcentric.herokuapp.com/)
-- Client: [http://162.243.171.132/](http://162.243.171.132/) 
+- LocalDB : [https://healthbuddy-localdatabase.herokuapp.com](https://healthbuddy-localdatabase.herokuapp.com)
+- Storage : [https://healthbuddy-storageservice.herokuapp.com](https://healthbuddy-storageservice.herokuapp.com)
+- External Adapter : [https://healthbuddy-adapterservice.herokuapp.com](https://healthbuddy-adapterservice.herokuapp.com)
+- Business Logic : [https://healthbuddy-businesslayer.herokuapp.com](https://healthbuddy-businesslayer.herokuapp.com)
+- Process Centric : [https://healthbuddy-processcentric.herokuapp.com](https://healthbuddy-processcentric.herokuapp.com)
+- Client: [http://162.243.171.132/](http://162.243.171.132/)
 
 ## Repositories
 
 - LocalDB : [https://github.com/introsde-healthbuddy/LocalDB](https://github.com/introsde-healthbuddy/LocalDB)
-- Storage : [https://github.com/introsde-healthbuddy/Storage](https://github.com/introsde-healthbuddy/Storage)
-- External Adapter : [https://github.com/introsde-healthbuddy/ExternalAdapter](https://github.com/introsde-healthbuddy/ExternalAdapter)
+- Storage : [https://github.com/introsde-healthbuddy/StorageService](https://github.com/introsde-healthbuddy/StorageService)
+- External Adapter : [https://github.com/introsde-healthbuddy/AdapterService](https://github.com/introsde-healthbuddy/AdapterService)
 - Business Logic : [hhttps://github.com/introsde-healthbuddy/BusinessLogic](https://github.com/introsde-healthbuddy/BusinessLogic)
 - Process Centric : [https://github.com/introsde-healthbuddy/ProcessCentric](https://github.com/introsde-healthbuddy/ProcessCentric)
 - Client: [http://162.243.171.132/](http://162.243.171.132/) 
