@@ -30,11 +30,7 @@ For this assignment we have developed a web application with which users can imp
 
 ## Wikis
 
-- LocalDB : [https://github.com/introsde-healthbuddy/LocalDB/wiki](https://github.com/introsde-healthbuddy/LocalDB/wiki)
-- Storage : [https://github.com/introsde-healthbuddy/Storage/wiki](https://github.com/introsde-healthbuddy/Storage/wiki)
-- External Adapter : [https://github.com/introsde-healthbuddy/ExternalAdapter/wiki](https://github.com/introsde-healthbuddy/ExternalAdapter/wiki)
-- Business Logic : [hhttps://github.com/introsde-healthbuddy/BusinessLogic/wiki](https://github.com/introsde-healthbuddy/BusinessLogic/wiki)
-- Process Centric : [https://github.com/introsde-healthbuddy/ProcessCentric/wiki](https://github.com/introsde-healthbuddy/ProcessCentric/wiki)
+- Available Resources : [https://github.com/introsde-healthbuddy/ProcessCentric/wiki/Process-Centric-Layer](https://github.com/introsde-healthbuddy/ProcessCentric/wiki/Process-Centric-Layer)
 - Client: [http://162.243.171.132/](http://162.243.171.132/) 
 
 ##External APIs
@@ -53,13 +49,13 @@ The application consists of six services that work independently. The interactio
  * Developed using SOAP web protocol. 
  * Interacts directly with the local SQLite database and creates the classes for all the tables.
 * **Adapter Service:** 
- * Developed using REST architectural style. 
+ * Developed using SOAP architectural style. 
  * Responsible for interacting with external APIs, such as Instagram API, Forismatic API and Quoteondesign API, for requesting data through their APIs.
 * **Storage Service:**
- * Developed using REST architectural style
+ * Developed using SOAP architectural style
  * Works as a middleman between the data sources and other services. Talks with the Local Database Service and Adapter Service and provides the data to other services in the application.
 * **Business Logic Service:**
- * Developed using REST architectural style
+ * Developed using SOAP architectural style
  * Handles the GET/DELETE requests coming from the User Interface layer: gets requests from the UI, asks proper data from Storage Service, processes it and sends it to the UI.
  * Handles the calculations if a user has reached a goal or not: gets the posted measure from Process Centric Services, gets the person goals, makes the calculations, gets timeline item, processes it and send it back to Process Centric Service.  
 * **Process Centric Service:**
@@ -69,4 +65,4 @@ The application consists of six services that work independently. The interactio
 * **Web Application (Client):**
  * Laravel powered web application that consumes REST & SOAP based web services to realize HealthBuddy
 
-  ![Application architecture](architecture_diagram.png)
+  ![Application architecture](architecture.png)
